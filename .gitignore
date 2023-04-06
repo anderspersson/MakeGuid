@@ -1,3 +1,6 @@
+# Files
+.json
+
 # Executables
 *.exe
 
@@ -5,3 +8,4 @@
 .vs/
 bin/
 obj/
+.vscode/
